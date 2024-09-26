@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **aaronguo128@gmail.com**
 
+- 🔗 More about me on [LinkedIn](https://www.linkedin.com/in/aaron-guo-a24483292/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
