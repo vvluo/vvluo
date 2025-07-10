@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvluo&label=Profile%20views&color=0e75b6&style=flat" alt="vvluo" /> </p>
 
-- 🔭 I’m currently working on [Project SONAR](https://github.com/aidecentralized/sonar/)
+- 🔭 I’m worked for [Project SONAR](https://github.com/aidecentralized/sonar/)
 
-- 🌱 I’m currently learning **methods in natural language processing, cognitive computing**
+- 🌱 I learned about **natural language processing, computation in cognition, and algebraic combinatorics.**
 
-- 💬 Ask me about **Python, prime numbers**
+- 💬 Ask me about **Python, SQL, prime numbers**
 
 - 📫 How to reach me **aaronguo128@gmail.com**
 
