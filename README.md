@@ -17,7 +17,7 @@
 
 - **[The Geometry of Grok](https://github.com/Mabdel-03/9.520-The-Geometry-of-Grok)** — MIT 9.520 (Statistical Learning Theory). [Paper](Geometry_Of_Grok.pdf)
 
-- **Understanding Human Confidence in Collaborative Card Games** — MIT 9.66 (Computational Cognitive Science). [Paper](Confidence_In_Collaborative_Card_Games.pdf)
+- **[Confidence in Collaborative Card Games](https://github.com/vvluo/collaborative-card-games)** — MIT 9.66 (Computational Cognitive Science). [Paper](Confidence_In_Collaborative_Card_Games.pdf)
 
 - **[web.lab: Trivia Game](https://github.com/vvluo/display_weblab)** — web.lab
 
